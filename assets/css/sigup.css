@@ -1,0 +1,14 @@
+body {
+    background-color: #f6f6f6;
+    background-image: url("../../templates/educators/assets/media/banner/banner-bg-1.png");
+}
+
+.trail-content {
+    margin-top: 50px;
+    width: 500px;
+    height: 900px;
+}
+
+a:hover {
+    color: #F5C231 !important;
+}

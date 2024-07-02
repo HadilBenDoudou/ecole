@@ -1,0 +1,30 @@
+body {
+    background-color: #f6f6f6;
+    background-image: url("../../templates/educators/assets/media/banner/banner-bg-1.png");
+}
+
+.trail-content {
+    margin-top: 110px;
+    width: 500px;
+    height: 590px;
+}
+
+a:hover {
+    color: #F5C231 !important;
+}   
+.form-check-input[type="checkbox"] {
+    border-color: #000;
+   
+}
+
+.form-check-input[type="checkbox"]:checked {
+    background-color: #000;
+ 
+    border-color: #000;
+    
+}
+
+.form-check-input[type="checkbox"]:checked+.form-check-label {
+    color: #000;
+    
+}
